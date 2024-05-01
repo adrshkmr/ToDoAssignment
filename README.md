@@ -9,5 +9,3 @@ User Story 3 : Whenever you mark the checkbox, update the status of the task to 
 User Story 4 : When you click on the cross icon, delete that task from the left pane. Refer to the below screenshot where Second Task is removed after clicking on the cross icon.
 
 User Story 5: Add an additional option to update the name of the task. Add a pencil icon before the cross icon. When you click on that icon, provide an option to update the task name.
-
-Create this assignment in the Projects module and once you are done, submit the URL of your project link on the right side textbox.
